@@ -15,10 +15,10 @@ function divide(a, b) {
 
 function inc(a) {
   var incNum = a
-  return number++
+  return incNum++
 }
 
 function dec(a) {
   var decNum = a
-  return a--
+  return decNum--
 }
