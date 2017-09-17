@@ -24,11 +24,11 @@ function dec(a) {
 }
 
 function makeInt(n) {
-  parseInt(n)
-  return n
+  //parseInt(n)
+  return parseInt(n)
 }
 
 function preserveDecimal(n) {
-  parseFloat(n)
-  return n
+  //parseFloat(n)
+  return parseFloat(n)
 }
