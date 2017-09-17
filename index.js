@@ -14,13 +14,12 @@ function divide(a, b) {
 }
 
 function inc(a) {
-  //var incNum = a
   a++
   return a
 }
 
 function dec(a) {
-  /*var decNum = a*/
   a--
   return a
 }
+
