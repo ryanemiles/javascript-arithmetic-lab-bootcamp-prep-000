@@ -14,9 +14,11 @@ function divide(a, b) {
 }
 
 function inc(a) {
-  return a++
+  var incNum = a
+  return number++
 }
 
 function dec(a) {
+  var decNum = a
   return a--
 }
